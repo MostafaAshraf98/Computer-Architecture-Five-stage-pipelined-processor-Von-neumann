@@ -1,0 +1,1113 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Labs/Lab4/Curr
+Ealu
+Z0 w1653875060
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1745
+Z4 dD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Integration
+Z5 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ALU.vhd
+Z6 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ALU.vhd
+l0
+L5 1
+VG8W?9Y3k2aXWZNO09`[gN3
+!s100 hSYZH>7GT]6:nR5>KDD`c1
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1653906311
+!i10b 1
+Z9 !s108 1653906311.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ALU.vhd|
+Z11 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ALU.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aa_alu
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 G8W?9Y3k2aXWZNO09`[gN3
+!i122 1745
+l42
+L16 109
+VRIMKiEXXF?IR6658]cmGm1
+!s100 mHkdkh;f]cEXAi5OQB`]X2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ebuf
+R0
+R2
+R3
+!i122 1731
+R4
+Z14 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer2_ID_EX.vhd
+Z15 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer2_ID_EX.vhd
+l0
+L4 1
+VGC5Pi3f9N?c]6kERV<@DJ0
+!s100 4lYU5Xcz:W<mVW^_>ikUc1
+R7
+32
+Z16 !s110 1653906309
+!i10b 1
+Z17 !s108 1653906309.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer2_ID_EX.vhd|
+Z19 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer2_ID_EX.vhd|
+!i113 1
+R12
+R13
+Abuf_arch
+R2
+R3
+Z20 DEx4 work 3 buf 0 22 GC5Pi3f9N?c]6kERV<@DJ0
+!i122 1731
+l21
+L20 45
+V1^8LmCzfm6miQ3cS>OVB32
+!s100 bcoTVBSH`9RGNUg?;[f1K3
+R7
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12
+R13
+Ebuffer1_if_id
+R0
+R2
+R3
+!i122 1730
+R4
+Z21 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer1_IF_ID.vhd
+Z22 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer1_IF_ID.vhd
+l0
+L4 1
+Vk1:IbKcJ4`iS^CYM[AncV2
+!s100 5cS4:?@3dMo:0SR`?J0]l0
+R7
+32
+R16
+!i10b 1
+Z23 !s108 1653906308.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer1_IF_ID.vhd|
+Z25 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer1_IF_ID.vhd|
+!i113 1
+R12
+R13
+Aa_buffer1_if_id
+R2
+R3
+Z26 DEx4 work 13 buffer1_if_id 0 22 k1:IbKcJ4`iS^CYM[AncV2
+!i122 1730
+l18
+L17 33
+V`YX`T6bbOBAF1M@60YCZ>1
+!s100 aO7B<8Vi6CJViZKi]K_WS2
+R7
+32
+R16
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R12
+R13
+Ebuffer3_ex_mem
+R0
+R2
+R3
+!i122 1732
+R4
+Z27 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer3_EX_MEM.vhd
+Z28 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer3_EX_MEM.vhd
+l0
+L4 1
+VH:aTSGlVXIgPPfjTU7RXU2
+!s100 PDW?fVebam86LGTgJ[GT`1
+R7
+32
+R16
+!i10b 1
+R17
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer3_EX_MEM.vhd|
+Z30 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer3_EX_MEM.vhd|
+!i113 1
+R12
+R13
+Aa_buffer3_if_id
+R2
+R3
+Z31 DEx4 work 14 buffer3_ex_mem 0 22 H:aTSGlVXIgPPfjTU7RXU2
+!i122 1732
+l30
+L29 39
+V@n]<UfoNNH>d>nmN7_iJ41
+!s100 hiJ:m?`P2J8hXk>EOWT5O1
+R7
+32
+R16
+!i10b 1
+R17
+R29
+R30
+!i113 1
+R12
+R13
+Ebuffer4_mem_wb
+R0
+R2
+R3
+!i122 1733
+R4
+Z32 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer4_MEM_WB.vhd
+Z33 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer4_MEM_WB.vhd
+l0
+L4 1
+V^9Nie>lSzVAN_5Sa1Co4j3
+!s100 GcT9J?^I^GKiKYXWdCl`h2
+R7
+32
+R16
+!i10b 1
+R17
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer4_MEM_WB.vhd|
+Z35 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer4_MEM_WB.vhd|
+!i113 1
+R12
+R13
+Aa_buffer4_mem_wb
+R2
+R3
+Z36 DEx4 work 14 buffer4_mem_wb 0 22 ^9Nie>lSzVAN_5Sa1Co4j3
+!i122 1733
+l28
+L26 15
+V2miECXEHGo>689dXdN0cT1
+!s100 VbNO:BOR3HRo323cVgM6;1
+R7
+32
+R16
+!i10b 1
+R17
+R34
+R35
+!i113 1
+R12
+R13
+Eccr
+R0
+R1
+R2
+R3
+!i122 1746
+R4
+Z37 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/CCR.vhd
+Z38 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/CCR.vhd
+l0
+L5 1
+V6L?1if`?gNAH@GVm`iz_93
+!s100 iCDaak4^B>GXRbzXX8Jl^0
+R7
+32
+Z39 !s110 1653906312
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/CCR.vhd|
+Z41 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/CCR.vhd|
+!i113 1
+R12
+R13
+Aa_ccr
+R1
+R2
+R3
+DEx4 work 3 ccr 0 22 6L?1if`?gNAH@GVm`iz_93
+!i122 1746
+l16
+L14 19
+Vi]0?Vl5?Fg1kjYAAJ0g^d2
+!s100 WfJBJjiH=j9;4[O28oG:=3
+R7
+32
+R39
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Econtrolunit
+R0
+R1
+R2
+R3
+!i122 1741
+R4
+Z42 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/ControlUnit.vhd
+Z43 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/ControlUnit.vhd
+l0
+L5 1
+VA0W<8:m0hcScOmAGI>`QY0
+!s100 dg]_zTYz[HY^GM^>9D4VR2
+R7
+32
+R8
+!i10b 1
+Z44 !s108 1653906310.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/ControlUnit.vhd|
+Z46 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/ControlUnit.vhd|
+!i113 1
+R12
+R13
+Acontrolunit
+R1
+R2
+R3
+DEx4 work 11 controlunit 0 22 A0W<8:m0hcScOmAGI>`QY0
+!i122 1741
+l33
+L12 231
+VmGjh;0^WVBGz6K3:@jiWZ1
+!s100 A]KkRzHGEonnYn`Oiknig2
+R7
+32
+R8
+!i10b 1
+R44
+R45
+R46
+!i113 1
+R12
+R13
+Edecode
+R0
+R1
+R2
+R3
+!i122 1742
+R4
+Z47 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Decode.vhd
+Z48 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Decode.vhd
+l0
+L5 1
+VI33PMM^zQ?Q4SICLONoWi3
+!s100 GPRM=ZCA26hRWVce09kz52
+R7
+32
+R8
+!i10b 1
+R9
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Decode.vhd|
+Z50 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Decode.vhd|
+!i113 1
+R12
+R13
+Adecode
+R1
+R2
+R3
+Z51 DEx4 work 6 decode 0 22 I33PMM^zQ?Q4SICLONoWi3
+!i122 1742
+l76
+L21 74
+VlIWQ?LUXYa1Mg0S71oHBN1
+!s100 Vc4FjSMb=mUTFHFW:R83Q0
+R7
+32
+R8
+!i10b 1
+R9
+R49
+R50
+!i113 1
+R12
+R13
+Eexecute_unit
+Z52 w1653905511
+R1
+R2
+R3
+!i122 1747
+R4
+Z53 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ExecuteUnit.vhd
+Z54 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ExecuteUnit.vhd
+l0
+L5 1
+V;<VdUN1a<OG_76oFO?g>12
+!s100 6KLXiWC@>ZCC]66;ZlD4H1
+R7
+32
+R39
+!i10b 1
+Z55 !s108 1653906312.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ExecuteUnit.vhd|
+Z57 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ExecuteUnit.vhd|
+!i113 1
+R12
+R13
+Aa_execute_unit
+R1
+R2
+R3
+Z58 DEx4 work 12 execute_unit 0 22 ;<VdUN1a<OG_76oFO?g>12
+!i122 1747
+l112
+L38 180
+VmLDN<5DM0LKchHCI_V`<80
+!s100 0FMH]@OnS_X4Bz3CLd<QV0
+R7
+32
+R39
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R12
+R13
+Efetch
+R0
+R1
+R2
+R3
+!i122 1750
+R4
+Z59 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Fetch/fetch.vhd
+Z60 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Fetch/fetch.vhd
+l0
+L5 1
+V<3eg2L4=;mg=Z[MX[?REk0
+!s100 <`4b6UR19fDdEzS8c[VFI0
+R7
+32
+R39
+!i10b 1
+R55
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Fetch/fetch.vhd|
+Z62 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Fetch/fetch.vhd|
+!i113 1
+R12
+R13
+Aarch_fetch
+R1
+R2
+R3
+Z63 DEx4 work 5 fetch 0 22 <3eg2L4=;mg=Z[MX[?REk0
+!i122 1750
+l31
+L14 45
+V1bXYcfTN:aDfY446P`WCQ2
+!s100 MIW4?R;I^=03]W;NYFa?W1
+R7
+32
+R39
+!i10b 1
+R55
+R61
+R62
+!i113 1
+R12
+R13
+Eforwardingunit
+R0
+R2
+R3
+!i122 1748
+R4
+Z64 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ForwardingUnit.vhd
+Z65 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ForwardingUnit.vhd
+l0
+L4 1
+V1U;9]OjE_UhX]?_Ihz9m?3
+!s100 <V_X26SdWgd?Y41C^AO^>0
+R7
+32
+R39
+!i10b 1
+R55
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ForwardingUnit.vhd|
+Z67 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ForwardingUnit.vhd|
+!i113 1
+R12
+R13
+Aa_forwardingunit
+R2
+R3
+DEx4 work 14 forwardingunit 0 22 1U;9]OjE_UhX]?_Ihz9m?3
+!i122 1748
+l13
+Z68 L12 16
+V`F[Q?onWe5cdHR0QJ9dN42
+!s100 VI>S:YV8m[O_NcSMW^d9R2
+R7
+32
+R39
+!i10b 1
+R55
+R66
+R67
+!i113 1
+R12
+R13
+Ehazarddu
+R0
+R1
+R2
+R3
+!i122 1743
+R4
+Z69 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/HazardDetectionUnit.vhd
+Z70 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/HazardDetectionUnit.vhd
+l0
+L6 1
+VVfMiZF_6@g<590ZVh=^@i3
+!s100 :0=bZ:zVhX46GZI203dNo2
+R7
+32
+R8
+!i10b 1
+R9
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/HazardDetectionUnit.vhd|
+Z72 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/HazardDetectionUnit.vhd|
+!i113 1
+R12
+R13
+Ahazarddu
+R1
+R2
+R3
+DEx4 work 8 hazarddu 0 22 VfMiZF_6@g<590ZVh=^@i3
+!i122 1743
+l15
+L14 5
+VIOOkQjRRi=2bk^8cnJ<fo1
+!s100 _MCM51OU3PMzIMoOI_kXz3
+R7
+32
+R8
+!i10b 1
+R9
+R71
+R72
+!i113 1
+R12
+R13
+Eintegration
+Z73 w1653905691
+R1
+R2
+R3
+!i122 1729
+R4
+Z74 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Integration/Integration.vhd
+Z75 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Integration/Integration.vhd
+l0
+L5 1
+VY8[?_N[`Lm7MhgnD_@RR;0
+!s100 NjmJOfnKVTGU^PTR8bXW71
+R7
+32
+Z76 !s110 1653906308
+!i10b 1
+R23
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Integration/Integration.vhd|
+Z78 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Integration/Integration.vhd|
+!i113 1
+R12
+R13
+Aa_integration
+Z79 DEx4 work 6 memory 0 22 gL7JL;FLaQ0P_WM=;f<zC0
+Z80 DEx4 work 4 mux2 0 22 l5c4o8MiVbBe21^m@302V3
+Z81 DEx4 work 10 write_back 0 22 UUhbKB1DnUih]75FU5Al30
+R36
+Z82 DEx4 work 11 memory_unit 0 22 :>9@mUi9f=YDZ<;I6C]zl2
+R31
+R58
+R20
+Z83 DEx4 work 12 registerfile 0 22 cR<;9hRbj;DJ@S5dSIGD63
+R51
+R26
+R63
+R1
+R2
+R3
+DEx4 work 11 integration 0 22 Y8[?_N[`Lm7MhgnD_@RR;0
+!i122 1729
+l97
+L14 332
+VNz]FGNEcRBlRV3cYaSX@@1
+!s100 U9m?APh[ek^PY9>G3B7OE3
+R7
+32
+R76
+!i10b 1
+R23
+R77
+R78
+!i113 1
+R12
+R13
+Ememory
+R0
+R1
+R2
+R3
+!i122 1734
+R4
+Z84 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/Memory.vhd
+Z85 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/Memory.vhd
+l0
+L5 1
+VgL7JL;FLaQ0P_WM=;f<zC0
+!s100 <c814niO<^Qn8i8fMca303
+R7
+32
+R16
+!i10b 1
+R17
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/Memory.vhd|
+Z87 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/Memory.vhd|
+!i113 1
+R12
+R13
+Aa_memory
+R1
+R2
+R3
+R79
+!i122 1734
+l20
+L16 21
+VaEGVPBL9zC3eBmVAWk5ci0
+!s100 OEAaV2IV93QzTWomC@E>g2
+R7
+32
+R16
+!i10b 1
+R17
+R86
+R87
+!i113 1
+R12
+R13
+Ememory_unit
+Z88 w1653887224
+R1
+R2
+R3
+!i122 1751
+R4
+Z89 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/MemoryUnit.vhd
+Z90 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/MemoryUnit.vhd
+l0
+L5 1
+V:>9@mUi9f=YDZ<;I6C]zl2
+!s100 MW11:BaI5W[eHAC0Qnn`23
+R7
+32
+R39
+!i10b 1
+R55
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/MemoryUnit.vhd|
+Z92 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/MemoryUnit.vhd|
+!i113 1
+R12
+R13
+Aa_memory_unit
+R1
+R2
+R3
+R82
+!i122 1751
+l98
+L36 132
+V?Z[O]O7@Jec`Z4BlYdCCj0
+!s100 cjCOj]0hfOM5Hk`Bd_6cM2
+R7
+32
+R39
+!i10b 1
+R55
+R91
+R92
+!i113 1
+R12
+R13
+Emux2
+R0
+R2
+R3
+!i122 1735
+R4
+Z93 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux2x1.vhd
+Z94 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux2x1.vhd
+l0
+L4 1
+Vl5c4o8MiVbBe21^m@302V3
+!s100 5M31=_J`7YZXYV282AhW;0
+R7
+32
+Z95 !s110 1653906310
+!i10b 1
+R17
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux2x1.vhd|
+Z97 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux2x1.vhd|
+!i113 1
+R12
+R13
+Aarch1
+R2
+R3
+R80
+!i122 1735
+l14
+Z98 L12 6
+V=F^LKbS];Cma@?^V>k[cK2
+!s100 e1K676jI`Bb@dRWQBG?j01
+R7
+32
+R95
+!i10b 1
+R17
+R96
+R97
+!i113 1
+R12
+R13
+Emux4
+R0
+R2
+R3
+!i122 1736
+R4
+Z99 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux4x1.vhd
+Z100 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux4x1.vhd
+l0
+L4 1
+V2id`EcjaWgj7c2^o9?=6_1
+!s100 ncb[oMdjATZcjIT]iOU;@3
+R7
+32
+R95
+!i10b 1
+R44
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux4x1.vhd|
+Z102 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux4x1.vhd|
+!i113 1
+R12
+R13
+Aarch1
+R2
+R3
+DEx4 work 4 mux4 0 22 2id`EcjaWgj7c2^o9?=6_1
+!i122 1736
+l13
+L12 11
+V>jVGfNEF;BS86nCWGKKOk1
+!s100 liB6jnEMXzl4BLi]V4;cj1
+R7
+32
+R95
+!i10b 1
+R44
+R101
+R102
+!i113 1
+R12
+R13
+Emux8
+R0
+R2
+R3
+!i122 1737
+R4
+Z103 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux8x3.vhd
+Z104 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux8x3.vhd
+l0
+L4 1
+VhBA>>f;JFWM_nYzjg<3OP0
+!s100 =hgc8lH4b_]FH78WmPSY;0
+R7
+32
+R95
+!i10b 1
+R44
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux8x3.vhd|
+Z106 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux8x3.vhd|
+!i113 1
+R12
+R13
+Aarch1
+R2
+R3
+DEx4 work 4 mux8 0 22 hBA>>f;JFWM_nYzjg<3OP0
+!i122 1737
+l13
+R68
+V^gaVbTBJzmB]QXT[zbNcN1
+!s100 4iICzAFg`Al``RNkThjVE1
+R7
+32
+R95
+!i10b 1
+R44
+R105
+R106
+!i113 1
+R12
+R13
+Emy_adder
+R0
+R2
+R3
+!i122 1738
+R4
+Z107 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/my_adder.vhd
+Z108 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/my_adder.vhd
+l0
+L4 1
+V<S@iT=a@NdAk??W3okB810
+!s100 2F7[FjE>L18Ec2`^SGHXY3
+R7
+32
+R95
+!i10b 1
+R44
+Z109 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/my_adder.vhd|
+Z110 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/my_adder.vhd|
+!i113 1
+R12
+R13
+Aa_my_adder
+R2
+R3
+DEx4 work 8 my_adder 0 22 <S@iT=a@NdAk??W3okB810
+!i122 1738
+l11
+L10 7
+V65mJjFEj7?h>IR73A@ndH0
+!s100 l4;]mMC;eMCGdb_JSVS[N3
+R7
+32
+R95
+!i10b 1
+R44
+R109
+R110
+!i113 1
+R12
+R13
+Emy_nadder
+R0
+R2
+R3
+!i122 1739
+R4
+Z111 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/n_bit_adder.vhd
+Z112 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/n_bit_adder.vhd
+l0
+L3 1
+V1hYdYz@XlgE0d[EJ<bO;N2
+!s100 8bOPkhAQWkgI_kD0JiKG:0
+R7
+32
+R95
+!i10b 1
+R44
+Z113 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/n_bit_adder.vhd|
+Z114 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/n_bit_adder.vhd|
+!i113 1
+R12
+R13
+Aa_my_nadder
+R2
+R3
+DEx4 work 9 my_nadder 0 22 1hYdYz@XlgE0d[EJ<bO;N2
+!i122 1739
+l20
+L13 14
+V6Uf7XjU8LCn_m7KLEHfkV2
+!s100 :JX[1>3@@eDc5>k?EBS7i2
+R7
+32
+R95
+!i10b 1
+R44
+R113
+R114
+!i113 1
+R12
+R13
+Emy_ndff
+Z115 w1653645308
+R2
+R3
+!i122 33
+R4
+Z116 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Register.vhd
+Z117 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Register.vhd
+l0
+L3 1
+VddG=<2fh>gka=>:HRWEd[0
+!s100 j_@BgB4`IGNkO^Lm]8?^j2
+R7
+32
+Z118 !s110 1653652178
+!i10b 1
+Z119 !s108 1653652177.000000
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Register.vhd|
+Z121 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Register.vhd|
+!i113 1
+R12
+R13
+Aa_my_ndff
+R2
+R3
+DEx4 work 7 my_ndff 0 22 ddG=<2fh>gka=>:HRWEd[0
+!i122 33
+l11
+L9 5
+Vd5]VDQmlP]Mff5TmjkW572
+!s100 4gO_^dKc=jce_=F[<ToXB3
+R7
+32
+R118
+!i10b 1
+R119
+R120
+R121
+!i113 1
+R12
+R13
+Eregdstunit
+R0
+R2
+R3
+!i122 1749
+R4
+Z122 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/RegDstUnit.vhd
+Z123 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/RegDstUnit.vhd
+l0
+L4 1
+V_?>zWfQN`o0G_<iKmk3dV0
+!s100 :GffO<nB:OFW38b=de?6;1
+R7
+32
+R39
+!i10b 1
+R55
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/RegDstUnit.vhd|
+Z125 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/RegDstUnit.vhd|
+!i113 1
+R12
+R13
+Aa_regdstunit
+R2
+R3
+DEx4 work 10 regdstunit 0 22 _?>zWfQN`o0G_<iKmk3dV0
+!i122 1749
+l19
+L16 31
+V1=JORj_zViCg[I?Hmd`0R0
+!s100 0V78D?CjoLCQa?BjoD>KW3
+R7
+32
+R39
+!i10b 1
+R55
+R124
+R125
+!i113 1
+R12
+R13
+Eregisterfile
+R0
+R1
+R2
+R3
+!i122 1744
+R4
+Z126 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/RegisterFile.vhd
+Z127 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/RegisterFile.vhd
+l0
+L5 1
+VcR<;9hRbj;DJ@S5dSIGD63
+!s100 8nIT?dkZSemSId_hIX6Y?2
+R7
+32
+R8
+!i10b 1
+R9
+Z128 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/RegisterFile.vhd|
+Z129 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/RegisterFile.vhd|
+!i113 1
+R12
+R13
+Asyncrf
+R1
+R2
+R3
+R83
+!i122 1744
+l19
+L14 18
+VOQiGh7?H9?0W>UODN95PN2
+!s100 ^AZOP6Ea5H2TV2imS^1fe0
+R7
+32
+R8
+!i10b 1
+R9
+R128
+R129
+!i113 1
+R12
+R13
+Estack_pointer
+Z130 w1653840935
+R1
+R2
+R3
+!i122 1752
+R4
+Z131 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/Stack_Pointer.vhd
+Z132 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/Stack_Pointer.vhd
+l0
+L5 1
+VZi:ff]MMOC_IB>[Y`L1UT1
+!s100 9AQe_LO`e3`W0L9X`UWWX3
+R7
+32
+Z133 !s110 1653906313
+!i10b 1
+Z134 !s108 1653906313.000000
+Z135 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/Stack_Pointer.vhd|
+Z136 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/Stack_Pointer.vhd|
+!i113 1
+R12
+R13
+Aa_stack_pointer
+R1
+R2
+R3
+Z137 DEx4 work 13 stack_pointer 0 22 Zi:ff]MMOC_IB>[Y`L1UT1
+!i122 1752
+l22
+Z138 L16 20
+Z139 V[e2:VEd<JQN5A<CXF]CXJ0
+Z140 !s100 1b[o08:FAEC>8`V>XlOg=2
+R7
+32
+R133
+!i10b 1
+R134
+R135
+R136
+!i113 1
+R12
+R13
+Etristatebuffer
+R0
+R2
+R3
+!i122 1740
+R4
+Z141 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/TristateBuffer.vhd
+Z142 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/TristateBuffer.vhd
+l0
+L4 1
+VH9XL?WRGhQe=S=B?ZJ?fD0
+!s100 Nnn_zV7cG=Hh?;L^7nZJH3
+R7
+32
+R95
+!i10b 1
+R44
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/TristateBuffer.vhd|
+Z144 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/TristateBuffer.vhd|
+!i113 1
+R12
+R13
+Aa_tristatebuffer
+R2
+R3
+DEx4 work 14 tristatebuffer 0 22 H9XL?WRGhQe=S=B?ZJ?fD0
+!i122 1740
+l13
+R98
+VI0F668TPXjilI97ChiP[j0
+!s100 HV39nZK12=7<fKbEW?H6A0
+R7
+32
+R95
+!i10b 1
+R44
+R143
+R144
+!i113 1
+R12
+R13
+Ewrite_back
+Z145 w1653776391
+R2
+R3
+!i122 1702
+R4
+Z146 8D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/WriteBack/writeBack.vhd
+Z147 FD:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/WriteBack/writeBack.vhd
+l0
+L4 1
+VUUhbKB1DnUih]75FU5Al30
+!s100 hd;BdM3D3BNS^deLzf`2=2
+R7
+32
+Z148 !s110 1653905221
+!i10b 1
+Z149 !s108 1653905221.000000
+Z150 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/WriteBack/writeBack.vhd|
+Z151 !s107 D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/WriteBack/writeBack.vhd|
+!i113 1
+R12
+R13
+Aarch_wb
+R2
+R3
+R81
+!i122 1702
+l28
+L16 24
+V`:jd]LNZ7oZ1AWkmP]<i<2
+!s100 GG6ao[ZZbFzJjz`De@Pb63
+R7
+32
+R148
+!i10b 1
+R149
+R150
+R151
+!i113 1
+R12
+R13

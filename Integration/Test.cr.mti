@@ -1,0 +1,217 @@
+{D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Integration/Integration.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Integration/Integration.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Integration
+-- Compiling architecture a_Integration of Integration
+-- Loading entity Fetch
+-- Loading entity Buffer1_IF_ID
+-- Loading entity Decode
+-- Loading entity RegisterFile
+-- Loading entity buf
+-- Loading entity Execute_Unit
+-- Loading entity Buffer3_EX_MEM
+-- Loading entity Memory_Unit
+-- Loading entity Buffer4_MEM_WB
+-- Loading entity write_back
+-- Loading entity mux2
+-- Loading entity Memory
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/Memory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/Memory.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Memory
+-- Compiling architecture a_Memory of Memory
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/CCR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/CCR.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CCR
+-- Compiling architecture a_CCR of CCR
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/TristateBuffer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/TristateBuffer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TristateBuffer
+-- Compiling architecture a_TristateBuffer of TristateBuffer
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/RegDstUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/RegDstUnit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RegDstUnit
+-- Compiling architecture a_RegDstUnit of RegDstUnit
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer3_EX_MEM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer3_EX_MEM.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Buffer3_EX_MEM
+-- Compiling architecture a_Buffer3_IF_ID of Buffer3_EX_MEM
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ALU.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture a_ALU of ALU
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ForwardingUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ForwardingUnit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ForwardingUnit
+-- Compiling architecture a_ForwardingUnit of ForwardingUnit
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux2x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux2x1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2
+-- Compiling architecture arch1 of mux2
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/my_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/my_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_adder
+-- Compiling architecture a_my_adder of my_adder
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Decode.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/Decode.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Decode
+-- Compiling architecture Decode of Decode
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux4x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux4x1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4
+-- Compiling architecture arch1 of mux4
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/RegisterFile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/RegisterFile.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RegisterFile
+-- Compiling architecture syncRF of RegisterFile
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer2_ID_EX.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer2_ID_EX.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity buf
+-- Compiling architecture buf_arch of buf
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer4_MEM_WB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer4_MEM_WB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Buffer4_MEM_WB
+-- Compiling architecture a_Buffer4_MEM_WB of Buffer4_MEM_WB
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/MemoryUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/MemoryUnit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Memory_Unit
+-- Compiling architecture a_Memory_Unit of Memory_Unit
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer1_IF_ID.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Buffers/Buffer1_IF_ID.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Buffer1_IF_ID
+-- Compiling architecture a_Buffer1_IF_ID of Buffer1_IF_ID
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Fetch/fetch.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Fetch/fetch.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Fetch
+-- Compiling architecture arch_fetch of Fetch
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/n_bit_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/n_bit_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nadder
+-- Compiling architecture a_my_nadder of my_nadder
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/HazardDetectionUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/HazardDetectionUnit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity HazardDU
+-- Compiling architecture HazardDU of HazardDU
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/ControlUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Decode/ControlUnit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ControlUnit
+-- Compiling architecture ControlUnit of ControlUnit
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ExecuteUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Execute/ExecuteUnit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Execute_Unit
+-- Compiling architecture a_Execute_Unit of Execute_Unit
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux8x3.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Common/mux8x3.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux8
+-- Compiling architecture arch1 of mux8
+
+} {} {}} {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/Stack_Pointer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Work/CCE/Year 3 - Senior 1/Semester 2/Arch/Project/Repo/Architecture-Project/Memory/Stack_Pointer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Stack_Pointer
+-- Compiling architecture a_Stack_Pointer of Stack_Pointer
+
+} {} {}}
